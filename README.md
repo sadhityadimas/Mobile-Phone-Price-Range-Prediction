@@ -56,7 +56,7 @@ Since the data is cleaned, and no categorical data or nan, i Proceed to check fo
 ![](/images/all_hist.png)
 
 * the 0 and 1 means the data has no distribution because it is in bolean value
-* the rest data shows no outliers eventhough none has gaussion distribution
+* the rest of the data shows no outliers eventhough none has gaussion distribution
 
 ![](/images/all_boxplot.png)
 
