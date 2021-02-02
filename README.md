@@ -48,7 +48,7 @@
 |  4 |            1821 |      1 |           1.2 |          0 |   13 |        1 |           44 |     0.6 |         141 |         2 |   14 |        1208 |       1212 |  1411 |      8 |      2 |          15 |         1 |              1 |      0 |             1 |
 
 
-#Data Preprocessing
+## Data Preprocessing
 Since the data is cleaned, and no categorical data or nan, i Proceed to check for outliers
 
 ## Outliers
