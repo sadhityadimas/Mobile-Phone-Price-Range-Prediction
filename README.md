@@ -15,7 +15,7 @@
 * blue               : bluetooth (0 no, 1 yes)
 * clock_speed        : Processor clock speed
 * dual_sim           : Dual Sim features (0 No, 1 yes)
-* fc                 : fron camera (in mega pixels)
+* fc                 : front camera (in mega pixels)
 * four_g             : 4g (0 No, 1 yes)
 * int_memory         : internal memmory (in gb)
 * m_dep              : Mobile depth in cm
@@ -33,7 +33,7 @@
 * wifi               : wifi (0 and 1)
 * price_range        : price range of the phone
 
-#Data Cleaning
+## Data Cleaning
 * after carefully checking (the usual NAN, datatypes, categorical data etc)
 * the datasets  (both train and test) is already cleaned and ready to be used
 
