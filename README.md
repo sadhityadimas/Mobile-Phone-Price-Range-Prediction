@@ -94,7 +94,7 @@ Since the data is cleaned, and no categorical data or nan, i Proceed to check fo
 * Average Mae Score : 0.17082
 
 ### Building and Training the Model 2
-* Since i do Cross validation, i got curius what if i split the trin data base on the folds that gives better score?
+* Since i do Cross validation, i got curious what if i split the train data based on the folds that gives better score?
 * we can see the 3rd fold gives better validation score
 * so i'm taking the 3rd fold as validation data and the rest as training data out of curiousity
 * using kfold to manually split the data into 5 folds and taking their indices
